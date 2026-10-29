@@ -1,0 +1,24 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Streamlit Local Runtime
+.streamlit/
+
+# Backups
+backup_before_distinctive_upgrade/
+*backup*/
+
+# OS and Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

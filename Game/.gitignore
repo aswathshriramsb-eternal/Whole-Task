@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Legacy backups
+backup_before_distinctive_upgrade/
+Sample
+sample.py
